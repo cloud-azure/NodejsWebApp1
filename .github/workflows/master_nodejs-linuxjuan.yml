@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'nodejs-linuxjuan'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_048f2e5ed71c4ff98c953207b2a87988 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8b320609cbe441318230ce7ff89ceb36 }}
         package: .
